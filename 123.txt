@@ -19,3 +19,7 @@ for 3rd commit
 Apexa Branch
 New code for footer
 -----------------------------
+
+New code
+6th commit
+---------------------------------
